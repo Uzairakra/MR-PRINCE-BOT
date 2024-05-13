@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["923255427063", "MR UZAIR", false],
   [''], 
   [''] 
 ]
@@ -60,7 +60,7 @@ global.APIKeys = { // APIKey Here
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
+global.imagen1 = fs.readFileSync("./Assets/menus/Menu.jpg")
 global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
 global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
 global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
